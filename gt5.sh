@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "checking git clone."
+echo "checking git pull and push.."
 
 echo "Enter the number:"
 read num
